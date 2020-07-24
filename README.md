@@ -1,4 +1,4 @@
-### 김주엽 -- @Kim-Ju-Yeop 
+### Kyle -- @Kim-Ju-Yeop 
 
 👋 Hi! Welcome to my Github profile!
 
@@ -14,17 +14,10 @@
 
 [![Kim-Ju-Yeop's github stats](https://github-readme-stats.vercel.app/api?username=Kim-Ju-Yeop&show_icons=true&hide_border=true)](https://github.com/Kim-Ju-Yeop)
 
-<!--
-**Kim-Ju-Yeop/Kim-Ju-Yeop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 I’m currently working on 
+- Daegu Software HighSchool since March 2019
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning
+- Java, Kotlin, Git
+- Android, Spring, Network, Database
+- MVVM, MVP, MVC, Clean Architecture
