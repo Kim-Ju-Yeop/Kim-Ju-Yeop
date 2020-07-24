@@ -20,7 +20,7 @@
 ### 🌱 I’m currently learning
 - Java, Kotlin, Coroutine, Git, Rx
 - Android, Spring, Network, Database
-- MVP, MVC, MVVM, Clean Architecture
+- MVC, MVP, MVVM, Clean Architecture
 - Object, Functional, Reactive Programming
 
 ### 💬 I’m currently thinking
