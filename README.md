@@ -1,4 +1,4 @@
-### Kyle -- @Kim-Ju-Yeop 
+### 김주엽 -- @Kim-Ju-Yeop 
 
 👋 Hi! Welcome to my Github profile!
 
