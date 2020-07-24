@@ -18,6 +18,10 @@
 - Daegu Software HighSchool since March 2019
 
 ### 🌱 I’m currently learning
-- Java, Kotlin, Git
+- Java, Kotlin, Coroutine, Git, Rx
 - Android, Spring, Network, Database
 - MVVM, MVP, MVC, Clean Architecture
+
+### 💬 I’m currently thinking
+- Show your best in the process, not the result.
+- The most important thing is not to get tired, Cheer up and Challange.
