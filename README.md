@@ -21,6 +21,7 @@
 - Java, Kotlin, Coroutine, Git, Rx
 - Android, Spring, Network, Database
 - MVVM, MVP, MVC, Clean Architecture
+- Functional Programming, Reactive Programming
 
 ### 💬 I’m currently thinking
 - Show your best in the process, not the result.
