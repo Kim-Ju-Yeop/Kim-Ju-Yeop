@@ -20,8 +20,8 @@
 ### 🌱 I’m currently learning
 - Java, Kotlin, Coroutine, Git, Rx
 - Android, Spring, Network, Database
-- MVVM, MVP, MVC, Clean Architecture
-- Functional Programming, Reactive Programming
+- MVP, MVC, MVVM, Clean Architecture
+- Object, Functional, Reactive Programming
 
 ### 💬 I’m currently thinking
 - Show your best in the process, not the result.
