@@ -13,7 +13,7 @@
 [![Github Followers](https://img.shields.io/github/followers/Kim-Ju-Yeop?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/Kim-Ju-Yeop?tab=followers)
 
 [![Kim-Ju-Yeop's github stats](https://github-readme-stats.vercel.app/api?username=Kim-Ju-Yeop&show_icons=true&hide_border=true)](https://github.com/Kim-Ju-Yeop)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Ju-Yeop&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Ju-Yeop&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔭 I’m currently working on 
 - Daegu Software HighSchool since March 2019
