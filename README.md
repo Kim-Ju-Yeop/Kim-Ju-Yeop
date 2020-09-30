@@ -26,4 +26,4 @@
 
 ### 💬 I’m currently thinking
 - Show your best in the process, not the result.
-- The most important thing is not to get tired, Cheer up and Challange.
+- The most important thing is not to get tired, Cheer up and Challange
