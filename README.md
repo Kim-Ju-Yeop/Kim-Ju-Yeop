@@ -23,15 +23,11 @@
 <a href="https://bit.ly/39xMKO9"><img src="https://img.shields.io/badge/-Tistory-orange?style=for-the-badge"></a>
 <a href="https://bit.ly/3ra7iCp"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
-#### Skills
+#### Language & FrameWork
 <a href='#'><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
 <a href='#'><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></a>
 <a href='#'><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
 <a href='#'><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-
-#### Workspace Spec & OS
-<a href='#'><img src="https://img.shields.io/badge/Apple-MacBook_Pro_2019-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
-<a href='#'><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
 
 [![Kim-Ju-Yeop's github stats](https://github-readme-stats.vercel.app/api?username=Kim-Ju-Yeop&show_icons=true)](#)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Ju-Yeop&layout=compact)](#)
