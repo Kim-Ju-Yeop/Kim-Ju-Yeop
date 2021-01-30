@@ -34,7 +34,7 @@
 
 ### I’m currently working on 
 - B1ND to Android Developer since June 2019
-- LILLYCOVER to Programmer since January 2021
+- LILLYCOVER to Android Developer since January 2021
 
 ### I’m currently learning
 - Java, Kotlin, Coroutine, Git, Rx
