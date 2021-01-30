@@ -6,7 +6,7 @@
 <a href="mailto:kjy031104"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://bit.ly/36nZYuI"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a>
 <a href="https://bit.ly/3pzBdmT"><img src="https://img.shields.io/badge/Rocket Punch-0082FC?style=for-the-badge&logo=apache rocketmq&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href='#'><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"></a>
 <a href="https://bit.ly/2Mh9aKK"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
 
@@ -33,8 +33,8 @@
 <a><img src="https://img.shields.io/badge/Apple-MacBook_Pro_2019-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kim-Ju-Yeop&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Ju-Yeop&layout=compact">
+[![Kim-Ju-Yeop's github stats](https://github-readme-stats.vercel.app/api?username=Kim-Ju-Yeop&show_icons=true)](https://github.com/Kim-Ju-Yeop)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Ju-Yeop&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔭 I’m currently working on 
 - Daegu Software HighSchool since March 2019
