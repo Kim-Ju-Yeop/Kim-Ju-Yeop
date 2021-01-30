@@ -32,16 +32,16 @@
 [![Kim-Ju-Yeop's github stats](https://github-readme-stats.vercel.app/api?username=Kim-Ju-Yeop&show_icons=true)](#)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Ju-Yeop&layout=compact)](#)
 
-### 🔭 I’m currently working on 
+### I’m currently working on 
 - B1ND to Android Developer since June 2019
 - LILLYCOVER to Programmer since January 2021
 
-### 🌱 I’m currently learning
+### I’m currently learning
 - Java, Kotlin, Coroutine, Git, Rx
 - Android, Spring, Network, Database
 - MVC, MVP, MVVM, Clean Architecture
 - Object, Functional, Reactive Programming
 
-### 💬 I’m currently thinking
+### I’m currently thinking
 - Show your best in the process, not the result.
 - The most important thing is not to get tired, Cheer up and Challange.
