@@ -37,7 +37,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Ju-Yeop&layout=compact)](#)
 
 ### 🔭 I’m currently working on 
-- Daegu Software HighSchool since March 2019
+- B1ND to Android Developer since June 2019
+- LILLYCOVER to Programmer since January 2021
 
 ### 🌱 I’m currently learning
 - Java, Kotlin, Coroutine, Git, Rx
