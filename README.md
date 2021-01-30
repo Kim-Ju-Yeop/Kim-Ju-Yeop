@@ -6,8 +6,8 @@
 <a href="mailto:kjy031104"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://bit.ly/36nZYuI"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a>
 <a href="https://bit.ly/3pzBdmT"><img src="https://img.shields.io/badge/Rocket Punch-0082FC?style=for-the-badge&logo=apache rocketmq&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" unselectable="on"></a>
-<a><img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" unselectable="on"></a>
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white">
 <a href="https://bit.ly/2Mh9aKK"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
 
 #### Social & Store
@@ -15,7 +15,7 @@
 <a href="https://bit.ly/3ta5j2J"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://bit.ly/3cl2dTz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://bit.ly/3cvaSD7"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" unselectable="on"></a>
+<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
 <a href="https://bit.ly/3oy1y3E"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"></a>
 
 #### Blog & Streaming
@@ -24,17 +24,17 @@
 <a href="https://bit.ly/3ra7iCp"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
 #### Skills
-<a><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" unselectable="on"></a>
-<a><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" unselectable="on"></a>
-<a><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" unselectable="on"></a>
-<a><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" unselectable="on"></a>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
 #### Workspace Spec & OS
-<a><img src="https://img.shields.io/badge/Apple-MacBook_Pro_2019-999999?style=for-the-badge&logo=apple&logoColor=white" unselectable="on"></a>
-<a><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" unselectable="on"></a>
+<img src="https://img.shields.io/badge/Apple-MacBook_Pro_2019-999999?style=for-the-badge&logo=apple&logoColor=white">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kim-Ju-Yeop&show_icons=true" unselectable="on">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Ju-Yeop&layout=compact" unselectable="on">
+<img src="https://github-readme-stats.vercel.app/api?username=Kim-Ju-Yeop&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Ju-Yeop&layout=compact">
 
 ### 🔭 I’m currently working on 
 - Daegu Software HighSchool since March 2019
