@@ -34,11 +34,16 @@
 - LILLYCOVER to Android Developer since January 2021
 
 ### I’m currently learning
-- Java, Kotlin, Coroutine, Git, Rx
+- Kotlin, Coroutine, Git, Rx, GraphQL
 - Android, Spring, Network, Database
-- MVC, MVP, MVVM, Clean Architecture
-- Object, Functional, Reactive Programming
+- MVVM, Clean Architecture Pattern
+- Functional, Reactive Programming
 
 ### I’m currently thinking
 - Show your best in the process, not the result.
 - The most important thing is not to get tired, Cheer up and Challange.
+
+### I'm recently writing
+- <a href="https://bit.ly/3agxLHF">[Tistory 기술 블로그] 해시에 대해서 `NEW!`</a>
+- <a href="https://bit.ly/3ozHJsF">[Tistory 기술 블로그] 트리에 대해서</a>
+- <a href="https://bit.ly/38Q1E1Q">[Tistory 기술 블로그] 리스트에 대해서</a>
