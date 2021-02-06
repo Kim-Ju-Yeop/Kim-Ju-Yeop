@@ -5,6 +5,7 @@
 #### Contact & Group
 <a href="mailto:kjy031104"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://bit.ly/36nZYuI"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a>
+<a href="https://bit.ly/2O4Ppqc"><img src="https://img.shields.io/badge/Rocket Punch-0082FC?style=for-the-badge"></a>
 <a href="https://bit.ly/2Mh9aKK"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
 
 #### Social & Store
