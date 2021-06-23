@@ -28,11 +28,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Ju-Yeop&layout=compact)](#)
 
 ### I’m currently working on 
-- B1ND to Android Developer since June 2019
+- B1ND to Android Developer since June 2019 to March 2021
 - LILLYCOVER to Android Developer since January to February 2021
 
 ### I’m currently learning
-- Kotlin, Coroutine, Git, Rx, GraphQL
+- Kotlin, Coroutine, Git, Rx, GraphQL, Compose
 - Android, Spring, Network, Database
 - MVVM, Clean Architecture Pattern
 - Functional, Reactive Programming
