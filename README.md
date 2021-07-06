@@ -1,5 +1,4 @@
 ### 김주엽 -- @Kim-Ju-Yeop
-
 👋 Hi! Welcome to my Github profile!
 
 #### Contact & Group
@@ -45,3 +44,5 @@
 - <a href="https://bit.ly/363dWlh">[Tistory 기술 블로그] Jetpack Compose 개요 `NEW!`</a>
 - <a href="https://bit.ly/3b5Owqo">[Naver 일상 블로그] 릴리커버 기업 인턴십 후기</a>
 - <a href="https://bit.ly/3jzgeid">[Naver 일상 블로그] 내가 희망하는 회사에 대해서</a>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKim-Ju-Yeop%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=&edge_flat=false)](https://hits.seeyoufarm.com)
